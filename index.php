@@ -3,7 +3,6 @@ session_start()
 ?>
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Zero Gravity is een webshop die hardware en accessoires verkoopt voor je pc ook je voor je telefoon.">
@@ -18,7 +17,6 @@ session_start()
     <title>Zero Gravity</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-
 <body>
     <div id="container">
         <a href="index.php" id="home"><img src="Afbeeldingen/logoZG.png" alt="logo" id="Logo">Zero Gravity</a>
@@ -42,7 +40,7 @@ session_start()
                     <li><a href="login/logout.php" target="_parent">Logout</a></li>
                 <?php } ?>
                     </a>
-                
+
                 </li>
             </ul>
         </nav>
