@@ -42,6 +42,7 @@ session_start()
                     <li><a href="login/logout.php" target="_parent">Logout</a></li>
                 <?php } ?>
                     </a>
+                
                 </li>
             </ul>
         </nav>
