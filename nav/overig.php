@@ -33,12 +33,12 @@ session_start()
                 <li><a href="../nav/contact.php">Contact</a></li>
                 <li><a href="../login/login.php">Login</a></li>
                 <li><a href="../login/sign_up.php">Sign up</a></li>
-                <li><a class="_right"><?php if($_SESSION['login'] == 1) {
+                <li><a><?php if($_SESSION['login'] == 1) {
                             echo "Ingelogd als " . $_SESSION['user'];
                         }?>
                     </a>
                 </li>
-                <li><a class="_right"><?php if($_SESSION['login'] == 1){?>
+                <li><a><?php if($_SESSION['login'] == 1){?>
                 <li><a href="login/logout.php" target="_parent">Logout</a></li>
                 <?php } ?>
                 </a>
@@ -52,7 +52,7 @@ session_start()
         <table>
             <tr>
                 <td class="line">
-                    <img src="../Afbeeldingen/1.png" alt="hd1" height="200" class="pc1thumb">
+                    <img src="../Afbeeldingen/1.png" alt="hd1" height="200" class="pc1Thumb">
                     <div class="pc1">
                         <img src="../Afbeeldingen/1.png" alt="hd1">
                     <h3>Box 5</h3>
@@ -63,9 +63,9 @@ session_start()
     </div>
                 </td>
                 <td class="line">
-                    <img src="../Afbeeldingen/2.png" alt="hd2" height="200" class="pc2thumb">
+                    <img src="../Afbeeldingen/2.png" alt="hd2" height="200" class="pc2Thumb">
                     <div class="pc2">
-                        <img src="../Afbeeldingen/2.png" alt="hd3">
+                        <img src="../Afbeeldingen/2.png" alt="hd3" height="300">
                         <h3>Box 5</h3>
                         <p>Deze box heeft verschillende soorten sterkte in geluid.
                             <br>
@@ -74,9 +74,9 @@ session_start()
                     </div>
                 </td>
                 <td class="line">
-                    <img src="../Afbeeldingen/3.png" alt="hd3" height="200" class="pc3thumb">
+                    <img src="../Afbeeldingen/3.png" alt="hd3" height="200" class="pc3Thumb">
                     <div class="pc3">
-                        <img src="../Afbeeldingen/3.png" alt="hd3">
+                        <img src="../Afbeeldingen/3.png" alt="hd3" height="300">
                         <h3>Box 5</h3>
                         <p>Deze box heeft verschillende soorten sterkte in geluid.
                             <br>
@@ -87,9 +87,9 @@ session_start()
             </tr>
             <tr>
                 <td class="line">
-                    <img src="../Afbeeldingen/4.png" alt="hd4" height="200" class="pc4thumb">
+                    <img src="../Afbeeldingen/4.png" alt="hd4" height="200" class="pc4Thumb">
                     <div class="pc4">
-                        <img src="../Afbeeldingen/4.png" alt="hd1">
+                        <img src="../Afbeeldingen/4.png" alt="hd1" height="250">
                         <h3>Box 5</h3>
                         <p>Deze box heeft verschillende soorten sterkte in geluid.
                             <br>
@@ -99,7 +99,7 @@ session_start()
                 </td>
                 <td></td>
                 <td class="line">
-                    <img src="../Afbeeldingen/5.png" alt="hd5" height="200" class="pc5thumb">
+                    <img src="../Afbeeldingen/5.png" alt="hd5" height="200" class="pc5Thumb">
                     <div class="pc5">
                         <img src="../Afbeeldingen/5.png" alt="hd1">
                         <h3>Box 5</h3>

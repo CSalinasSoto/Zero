@@ -33,12 +33,12 @@ session_start()
                 <li><a href="../nav/contact.php">Contact</a></li>
                 <li><a href="../login/login.php">Login</a></li>
                 <li><a href="../login/sign_up.php">Sign up</a></li>
-                <li><a class="_right"><?php if($_SESSION['login'] == 1) {
+                <li><a><?php if($_SESSION['login'] == 1) {
                             echo "Ingelogd als " . $_SESSION['user'];
                         }?>
                     </a>
                 </li>
-                <li><a class="_right"><?php if($_SESSION['login'] == 1){?>
+                <li><a><?php if($_SESSION['login'] == 1){?>
                 <li><a href="login/logout.php" target="_parent">Logout</a></li>
                 <?php } ?>
                 </a>
@@ -51,7 +51,7 @@ session_start()
         <table>
             <tr>
                 <td class="line">
-                    <img src="../Afbeeldingen/box1.png" alt="box1" height="230" class="pc1Thumb">
+                    <img src="../Afbeeldingen/box1.png" alt="box1" height="260" class="pc1Thumb">
                     <div class="pc1">
                         <img src="../Afbeeldingen/box1.png" alt="pc4">
                         <h3>Box 1</h3>
@@ -62,7 +62,7 @@ session_start()
                     </div>
                 </td>
                 <td class="line">
-                    <img src="../Afbeeldingen/box2.png" alt="box2" height="230" class="pc2Thumb">
+                    <img src="../Afbeeldingen/box2.png" alt="box2" height="260" class="pc2Thumb">
                     <div class="pc2">
                         <img src="../Afbeeldingen/box2.png" alt="pc4">
                         <h3>Box 2</h3>
@@ -73,7 +73,7 @@ session_start()
                     </div>
                 </td>
                 <td class="line">
-                    <img src="../Afbeeldingen/box3.png" alt="box3" height="230" class="pc3Thumb">
+                    <img src="../Afbeeldingen/box3.png" alt="box3" height="260" class="pc3Thumb">
                     <div class="pc3">
                         <img src="../Afbeeldingen/box3.png" alt="pc4">
                         <h3>Box 3</h3>
@@ -86,18 +86,7 @@ session_start()
             </tr>
             <tr>
                 <td class="line">
-                    <img src="../Afbeeldingen/box3.png" alt="box3" height="230" class="pc4Thumb">
-                    <div class="pc4">
-                        <img src="../Afbeeldingen/box3.png" alt="pc4">
-                        <h3>Box 4</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
-                        </p>
-                    </div>
-                </td>
-                <td class="line">
-                    <img src="../Afbeeldingen/box4.png" alt="box4" height="230" class="pc5Thumb">
+                    <img src="../Afbeeldingen/box4.png" alt="box4" height="260" class="pc5Thumb">
                     <div class="pc5">
                         <img src="../Afbeeldingen/box4.png" alt="pc4" width="400px">
                         <h3>Box 5</h3>
@@ -107,8 +96,9 @@ session_start()
                         </p>
                     </div>
                 </td>
+                <td></td>
                 <td class="line">
-                    <img src="../Afbeeldingen/box5.png" alt="box5" height="230" class="pc6Thumb">
+                    <img src="../Afbeeldingen/box5.png" alt="box5" height="260" class="pc6Thumb">
                     <div class="pc6">
                         <img src="../Afbeeldingen/box5.png" alt="pc4">
                         <h3>Box 1</h3>

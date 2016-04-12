@@ -39,6 +39,11 @@ session_start();
                         }?>
                     </a>
                 </li>
+                <li><a class="_right"><?php if($_SESSION['login'] == 1){?>
+                <li><a href="login/logout.php" target="_parent">Logout</a></li>
+                <?php } ?>
+                </a>
+                </li>
             </ul>
         </nav>
         <br>

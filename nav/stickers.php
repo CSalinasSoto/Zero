@@ -33,12 +33,12 @@ session_start()
                 <li><a href="../nav/contact.php">Contact</a></li>
                 <li><a href="../login/login.php">Login</a></li>
                 <li><a href="../login/sign_up.php">Sign up</a></li>
-                <li><a class="_right"><?php if($_SESSION['login'] == 1) {
+                <li><a><?php if($_SESSION['login'] == 1) {
                             echo "Ingelogd als " . $_SESSION['user'];
                         }?>
                     </a>
                 </li>
-                <li><a class="_right"><?php if($_SESSION['login'] == 1){?>
+                <li><a><?php if($_SESSION['login'] == 1){?>
                 <li><a href="login/logout.php" target="_parent">Logout</a></li>
                 <?php } ?>
                 </a>
