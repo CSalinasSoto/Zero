@@ -79,7 +79,7 @@ session_start()
                     </a>
                 </td>
                 <td class="line">
-                    <a href="nav/stickers.php">
+                    <a href="nav/stickers.php" style="color: white">
                     <img src="Afbeeldingen/pcsticker4.png" alt="pc4" height="135">
                     <br>
                     <span>ACME MARIO</span>

@@ -62,6 +62,9 @@ session_start()
                         Full HD en goede kwaliteit microfoon.
                         Deze webcam is verkrijgbaar in zwart en wit.
                     </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
     </div>
                 </td>
@@ -77,6 +80,9 @@ session_start()
                             Speciaal voor gamer.
                             Dit toetsenbord is verkrijgbaar in zwart/rood en wit/blauw.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -92,6 +98,9 @@ session_start()
                             Speciaal voor gamer.
                             Deze muis is verkrijgbaar in zwart, grijs en wit.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -109,6 +118,9 @@ session_start()
                             Deze externe harde schijf is verkrijgbaar in alle kleuren.
                             ACME COOLERMASTER XQ-F series 1144240
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -124,6 +136,9 @@ session_start()
                             Maximaal koel systeem, lucht gekoeld.
                             Deze COOLERMASTER is uitverkocht.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>

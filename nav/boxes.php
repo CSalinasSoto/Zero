@@ -60,6 +60,9 @@ session_start()
                             Deze Boxen zijn van goede kwaliteit, en hebben een groot volume verspreiding systeem.
                             Deze box is 50 x 20 cm.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -73,6 +76,9 @@ session_start()
                             Deze Boxen zijn van goede kwaliteit, desondanks de grootte van deze boxenset.
                             Deze box is 25 x 11 cm.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -86,6 +92,9 @@ session_start()
                             Deze Box is goede kwaliteit en is een apart aanschaf baare boxenset.
                             Deze box is 50 x 12.5 cm.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -94,13 +103,16 @@ session_start()
                 <td class="line">
                     <img src="../Afbeeldingen/box4.png" alt="box4" height="260" class="pc5Thumb">
                     <div class="pc5">
-                        <img src="../Afbeeldingen/box4.png" alt="pc4" width="400px">
+                        <img src="../Afbeeldingen/box4.png" alt="pc4" width="400">
                         <h3>ACME Box CX-720 series 7744744 grijs.</h3>
                         <p>€60,00</p>
                         <p>
                             Deze Boxen zijn van goede kwaliteit en geven je een warm en comfortabel.
                             Deze boxen zijn 75 x 25 cm.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -115,6 +127,9 @@ session_start()
                             Deze Boxen zijn goede kwaliteit en geven je een warm en een bioscoop gevoel door de surround functie.
                             Deze boxen zijn 50 x 50 cm, en de bestuurder is 70 x 50 cm.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>

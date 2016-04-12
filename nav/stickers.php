@@ -59,8 +59,11 @@ session_start()
                             <p>€20.00</p>
                             <p>
                                 Deze skin sticker is voor de apple laptop series.
-                                Dit logo is apocalyptisch.
+                                Dit logo is Jumping Mario.
                             </p>
+                            <div class="product">
+                                <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                            </div>
                             <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -74,6 +77,9 @@ session_start()
                             Deze skin sticker is voor de apple laptop series.
                             Dit is een logo van etende Homer Simpson.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -85,8 +91,12 @@ session_start()
                         <p>€25</p>
                         <p>
                             Deze skin sticker is voor de apple laptop series.
-                            Dit is een logo van Batman.
+                            Op deze skin sticker wordt Batman's Logo afgebeeld.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
+
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -102,6 +112,9 @@ session_start()
                             Deze skin sticker is voor de apple laptop series.
                             Dit logo is apocalyptisch.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -115,6 +128,9 @@ session_start()
                             Deze skin sticker is voor de apple laptop series.
                             Op deze skin sticker wordt Darth Vader afgebeeld.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
@@ -125,8 +141,11 @@ session_start()
                         <h3>ACME ALIEN skin sticker</h3>
                         <p>€15.00</p>
                         <p>Deze skin sticker is voor de apple laptop series.
-                            Dit logo is apocalyptisch.
+                            Dit logo is van Aliens.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>

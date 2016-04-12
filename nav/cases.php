@@ -54,7 +54,7 @@ session_start()
                     <img src="../Afbeeldingen/6.png" alt="ph1" height="230" class="pc1Thumb">
                     <div class="pc1">
                         <img src="../Afbeeldingen/6.png" alt="ph1" height="230">
-                        <h3>ACME Hoesje ZG-1080S series 945872.</h3>
+                        <h3 style="color: black">ACME Hoesje ZG-1080S series 945872.</h3>
                     <p>€10,00</p>
                         <p>
                         Dit hoesje is flexiebel en makkelijk te ontkoppelen, met scherm bescherming in begrepen.
@@ -62,20 +62,26 @@ session_start()
                         Hier zit ook een standaard op zodat je alles gemakkelijk in fullscreen kan kijken.
                         In een kleur beschikbaar.
                         </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
     </div>
                 </td>
                 <td class="line">
-                    <img src="../Afbeeldingen/7.png" alt="ph2" height="220"class="pc2Thumb">
+                    <img src="../Afbeeldingen/7.png" alt="ph2" height="220" class="pc2Thumb">
                     <div class="pc2">
                         <img src="../Afbeeldingen/7.png" alt="ph2" height="230">
-                        <h3>ACME Hoesje ZG-1080I series 945873.</h3>
+                        <h3 style="color: black">ACME Hoesje ZG-1080I series 945873.</h3>
                     <p>€10,00<p>
                     <p>
                         Dit hoesje is flexiebel en makkelijk te ontkoppelen.
                         Ook brengt het een goede bescherming voor je telefoon.
                         Speciaal voor superman fans.
                     </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
     </div>
                 </td>
@@ -83,13 +89,16 @@ session_start()
                     <img src="../Afbeeldingen/10.png" alt="ph3" height="230" class="pc3Thumb">
                     <div class="pc3">
                         <img src="../Afbeeldingen/10.png" alt="ph3" height="230">
-                        <h3>ACME Hoesje ZG-1080I series 945874.</h3>
+                        <h3 style="color: black">ACME Hoesje ZG-1080I series 945874.</h3>
                     <p>€10,00</p>
                     <p>
                         Dit hoesje heeft een harde beveiligings laag.
                         Waardoor het een goede bescherming voor je telefoon brengt.
                         In een kleur beschikbaar.
                     </p>
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                         <h4>&copy;Zero Gravity 2016</h4>
     </div>
                 </td>
@@ -106,7 +115,9 @@ session_start()
                             Waardoor het een goede bescherming voor je telefoon brengt.
                             Fan van Pokemon? Zie hier jouw pokedex hoesje.
                         </p>
-
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                     </div>
                 </td>
                 <td></td>
@@ -121,7 +132,9 @@ session_start()
                             Ook brengt het een goede bescherming voor je telefoon.
                             Dit hoesje is in een kleur beschikbaar.
                         </p>
-
+                        <div class="product">
+                            <a href="../cart/add_cart.php" style="color: white">Add to cart</a>
+                        </div>
                     </div>
                 </td>
             </tr>
