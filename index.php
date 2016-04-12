@@ -58,107 +58,147 @@ session_start()
         <table id="tab">
             <tr>
                 <td class="line">
+                    <a href="nav/stickers.php" style="color:white;">
                     <img src="Afbeeldingen/pcsticker1.png" alt="pc1" height="135" >
                     <br>
-                    <span>skn</span>
+                    <span>ACME Apocalyptisch</span>
+                        </a>
                 </td>
                 <td class="line">
+                    <a href="nav/stickers.php" style="color:white;">
                     <img src="Afbeeldingen/pcsticker2.png" alt="pc2" height="135" >
                     <br>
-                    <span>skn</span>
+                    <span>ACME Darth Vader</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/stickers.php" style="color:white;">
                     <img src="Afbeeldingen/pcsticker3.png" alt="pc3" height="135">
                     <br>
-                    <span>skn</span>
+                    <span>ACME Homer Simpson</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/stickers.php">
                     <img src="Afbeeldingen/pcsticker4.png" alt="pc4" height="135">
                     <br>
-                    <span>skn</span>
+                    <span>ACME MARIO</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/stickers.php" style="color:white;">
                     <img src="Afbeeldingen/pcsticker5.png" alt="pc5" height="135">
                     <br>
-                    <span>skn</span>
+                    <span>ACME ALIEN</span>
+                    </a>
                 </td>
             </tr>
             <tr>
                 <td class="line">
+                    <a href="nav/boxes.php" style="color:white;">
                     <img src="Afbeeldingen/box1.png" alt="box6" height="135" >
                     <br>
-                    <span>speak</span>
+                    <span>ACME Box 11</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/boxes.php" style="color:white;">
                     <img src="Afbeeldingen/box2.png" alt="box7" height="135" >
                     <br>
-                    <span>speak</span>
+                    <span>ACME Box 12</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/boxes.php" style="color:white;">
                     <img src="Afbeeldingen/box3.png" alt="box8" height="135">
                     <br>
-                    <span>speak</span>
+                    <span>ACME Box 13</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/boxes.php" style="color:white;">
                     <img src="Afbeeldingen/box4.png" alt="box9" height="135">
                     <br>
-                    <span>speak</span>
+                    <span>ACME Box 14</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/boxes.php" style="color:white;">
                     <img src="Afbeeldingen/box5.png" alt="box10" height="135">
                     <br>
-                    <span>speak</span>
+                    <span>ACME Box 15</span>
+                    </a>
                 </td>
             </tr>
             <tr>
                 <td class="line">
+                    <a href="nav/overig.php" style="color:white;">
                     <img src="Afbeeldingen/1.png" alt="hd11" height="120" >
                     <br>
-                    <span>speak</span>
+                    <span>ACME webcam</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/overig.php" style="color:white;">
                     <img src="Afbeeldingen/2.png" alt="hd12" height="135" >
-                    <span>speak</span>
+                    <span>ACME toetsenbord</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/overig.php" style="color:white;">
                     <img src="Afbeeldingen/3.png" alt="hd12" height="120" >
-                    <span>speak</span>
+                    <span>ACME gamers muis</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/overig.php" style="color:white;">
                     <img src="Afbeeldingen/4.png" alt="hd13" height="120" >
-                    <span>speak</span>
+                    <span>ACME externe harde schijf</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/overig.php" style="color:white;">
                     <img src="Afbeeldingen/5.png" alt="hd14" height="120" >
                     <br>
-                    <span>speak</span>
+                    <span>ACME COOLERMASTER</span>
+                    </a>
                 </td>
             </tr>
             <tr>
                 <td class="line">
+                    <a href="nav/cases.php" style="color:white;">
                     <img src="Afbeeldingen/6.png" alt="ph15" height="135" >
                     <br>
-                    <span>speak</span>
+                    <span>ACME Hoesje 72</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/cases.php" style="color:white;">
                     <img src="Afbeeldingen/7.png" alt="ph16" height="135" >
                     <br>
-                    <span>speak</span>
+                    <span>ACME Hoesje 73</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/cases.php" style="color:white;">
                     <img src="Afbeeldingen/10.png" alt="ph17" height="135" >
                     <br>
-                    <span>speak</span>
+                    <span>ACME Hoesje 74</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/cases.php" style="color:white;">
                     <img src="Afbeeldingen/i6s.png" alt="ph18" height="135" >
                     <br>
-                    <span>speak</span>
+                    <span>ACME Hoesje 75</span>
+                    </a>
                 </td>
                 <td class="line">
+                    <a href="nav/cases.php" style="color:white;">
                     <img src="Afbeeldingen/s6s.png" alt="ph19" height="120">
                     <br>
-                    <span>speak</span>
+                    <span>ACME Hoesje 76</span>
+                    </a>
                 </td>
             </tr>
         </table>

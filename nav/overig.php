@@ -55,33 +55,44 @@ session_start()
                     <img src="../Afbeeldingen/1.png" alt="hd1" height="200" class="pc1Thumb">
                     <div class="pc1">
                         <img src="../Afbeeldingen/1.png" alt="hd1">
-                    <h3>Box 5</h3>
-                    <p>Deze box heeft verschillende soorten sterkte in geluid.
-                        <br>
-                        De box is zwart gekleurd.
+                    <h3>ACME webcam XQ-F series 1144236</h3>
+                        <p>€30.00</p>
+                    <p>Deze webcam heeft goede kwaliteiten.
+                        Bevat een 3d display functie (zodat andere mensen jou kunnen zien op een 3d beeld).
+                        Full HD en goede kwaliteit microfoon.
+                        Deze webcam is verkrijgbaar in zwart en wit.
                     </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
     </div>
                 </td>
                 <td class="line">
                     <img src="../Afbeeldingen/2.png" alt="hd2" height="200" class="pc2Thumb">
                     <div class="pc2">
                         <img src="../Afbeeldingen/2.png" alt="hd3" height="300">
-                        <h3>Box 5</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME toetsenbord XQ-F series 1144237</h3>
+                        <p>€80.00<p>
+                        <p>
+                            Dit toetsenbord is voorzien van goede kwaliteiten.
+                            Bevat een LED-display functie met alle kleuren.
+                            Speciaal voor gamer.
+                            Dit toetsenbord is verkrijgbaar in zwart/rood en wit/blauw.
                         </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
                 <td class="line">
                     <img src="../Afbeeldingen/3.png" alt="hd3" height="200" class="pc3Thumb">
                     <div class="pc3">
                         <img src="../Afbeeldingen/3.png" alt="hd3" height="300">
-                        <h3>Box 5</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME gamers muis XQ-F series 1144238</h3>
+                        <p>€50.00<p>
+                        <p>
+                            Deze gamers muis is draadloos.
+                            Bevat een LED-display functie met alle kleuren.
+                            Speciaal voor gamer.
+                            Deze muis is verkrijgbaar in zwart, grijs en wit.
                         </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
             </tr>
@@ -90,11 +101,15 @@ session_start()
                     <img src="../Afbeeldingen/4.png" alt="hd4" height="200" class="pc4Thumb">
                     <div class="pc4">
                         <img src="../Afbeeldingen/4.png" alt="hd1" height="250">
-                        <h3>Box 5</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME externe harde schijf XQ-F series 1144239</h3>
+                        <p>€125.00</p>
+                        <p>
+                            Deze externe harde schijf bevat 5 TB.
+                            Alleen op stroom via USB-3.
+                            Deze externe harde schijf is verkrijgbaar in alle kleuren.
+                            ACME COOLERMASTER XQ-F series 1144240
                         </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
                 <td></td>
@@ -102,11 +117,14 @@ session_start()
                     <img src="../Afbeeldingen/5.png" alt="hd5" height="200" class="pc5Thumb">
                     <div class="pc5">
                         <img src="../Afbeeldingen/5.png" alt="hd1">
-                        <h3>Box 5</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME COOLERMASTER XQ-F series 1144240</h3>
+                        <p>€125.00</p>
+                        <p>
+                            Deze COOLERMASTER is de beste die er is.
+                            Maximaal koel systeem, lucht gekoeld.
+                            Deze COOLERMASTER is uitverkocht.
                         </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
             </tr>

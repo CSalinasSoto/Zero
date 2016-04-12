@@ -54,33 +54,39 @@ session_start()
                     <img src="../Afbeeldingen/box1.png" alt="box1" height="260" class="pc1Thumb">
                     <div class="pc1">
                         <img src="../Afbeeldingen/box1.png" alt="pc4">
-                        <h3>Box 1</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME Box CX-720 series 4411411 mat zwart.</h3>
+                        <p>€30,00</p>
+                        <p>
+                            Deze Boxen zijn van goede kwaliteit, en hebben een groot volume verspreiding systeem.
+                            Deze box is 50 x 20 cm.
                         </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
                 <td class="line">
                     <img src="../Afbeeldingen/box2.png" alt="box2" height="260" class="pc2Thumb">
                     <div class="pc2">
                         <img src="../Afbeeldingen/box2.png" alt="pc4">
-                        <h3>Box 2</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME Box CX-720 series 5522522 zwart.</h3>
+                        <p>€45,00</p>
+                        <p>
+                            Deze Boxen zijn van goede kwaliteit, desondanks de grootte van deze boxenset.
+                            Deze box is 25 x 11 cm.
                         </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
                 <td class="line">
                     <img src="../Afbeeldingen/box3.png" alt="box3" height="260" class="pc3Thumb">
                     <div class="pc3">
                         <img src="../Afbeeldingen/box3.png" alt="pc4">
-                        <h3>Box 3</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME Box CX-720 series 6633633 grijs/ donkergrijs.</h3>
+                        <p>€45,00</p>
+                        <p>
+                            Deze Box is goede kwaliteit en is een apart aanschaf baare boxenset.
+                            Deze box is 50 x 12.5 cm.
                         </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
             </tr>
@@ -89,11 +95,13 @@ session_start()
                     <img src="../Afbeeldingen/box4.png" alt="box4" height="260" class="pc5Thumb">
                     <div class="pc5">
                         <img src="../Afbeeldingen/box4.png" alt="pc4" width="400px">
-                        <h3>Box 5</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME Box CX-720 series 7744744 grijs.</h3>
+                        <p>€60,00</p>
+                        <p>
+                            Deze Boxen zijn van goede kwaliteit en geven je een warm en comfortabel.
+                            Deze boxen zijn 75 x 25 cm.
                         </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
                 <td></td>
@@ -101,11 +109,13 @@ session_start()
                     <img src="../Afbeeldingen/box5.png" alt="box5" height="260" class="pc6Thumb">
                     <div class="pc6">
                         <img src="../Afbeeldingen/box5.png" alt="pc4">
-                        <h3>Box 1</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME Box CX-720 series 8855855 zwart.</h3>
+                        <p>€75,00</p>
+                        <p>
+                            Deze Boxen zijn goede kwaliteit en geven je een warm en een bioscoop gevoel door de surround functie.
+                            Deze boxen zijn 50 x 50 cm, en de bestuurder is 70 x 50 cm.
                         </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
             </tr>

@@ -54,33 +54,43 @@ session_start()
                     <img src="../Afbeeldingen/6.png" alt="ph1" height="230" class="pc1Thumb">
                     <div class="pc1">
                         <img src="../Afbeeldingen/6.png" alt="ph1" height="230">
-                        <h3>phone 5</h3>
-                    <p>Deze box heeft verschillende soorten sterkte in geluid.
-                        <br>
-                        De box is zwart gekleurd.
-                    </p>
+                        <h3>ACME Hoesje ZG-1080S series 945872.</h3>
+                    <p>€10,00</p>
+                        <p>
+                        Dit hoesje is flexiebel en makkelijk te ontkoppelen, met scherm bescherming in begrepen.
+                        Het brengt een goede bescherming voor je telefoon.
+                        Hier zit ook een standaard op zodat je alles gemakkelijk in fullscreen kan kijken.
+                        In een kleur beschikbaar.
+                        </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
     </div>
                 </td>
                 <td class="line">
                     <img src="../Afbeeldingen/7.png" alt="ph2" height="220"class="pc2Thumb">
                     <div class="pc2">
                         <img src="../Afbeeldingen/7.png" alt="ph2" height="230">
-                        <h3>phone 5</h3>
-                    <p>Deze box heeft verschillende soorten sterkte in geluid.
-                        <br>
-                        De box is zwart gekleurd.
+                        <h3>ACME Hoesje ZG-1080I series 945873.</h3>
+                    <p>€10,00<p>
+                    <p>
+                        Dit hoesje is flexiebel en makkelijk te ontkoppelen.
+                        Ook brengt het een goede bescherming voor je telefoon.
+                        Speciaal voor superman fans.
                     </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
     </div>
                 </td>
                 <td class="line">
                     <img src="../Afbeeldingen/10.png" alt="ph3" height="230" class="pc3Thumb">
                     <div class="pc3">
                         <img src="../Afbeeldingen/10.png" alt="ph3" height="230">
-                        <h3>phone 5</h3>
-                    <p>Deze box heeft verschillende soorten sterkte in geluid.
-                        <br>
-                        De box is zwart gekleurd.
+                        <h3>ACME Hoesje ZG-1080I series 945874.</h3>
+                    <p>€10,00</p>
+                    <p>
+                        Dit hoesje heeft een harde beveiligings laag.
+                        Waardoor het een goede bescherming voor je telefoon brengt.
+                        In een kleur beschikbaar.
                     </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
     </div>
                 </td>
             </tr>
@@ -89,11 +99,14 @@ session_start()
                     <img src="../Afbeeldingen/i6s.png" alt="ph4" height="230" class="pc4Thumb">
                     <div class="pc4">
                         <img src="../Afbeeldingen/i6s.png" alt="ph4" height="230">
-                        <h3>phone 5</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME Hoesje ZG-1080I series 945875.</h3>
+                        <p>€10,00</p>
+                        <p>
+                            Dit hoesje heeft een harde beveiligings laag.
+                            Waardoor het een goede bescherming voor je telefoon brengt.
+                            Fan van Pokemon? Zie hier jouw pokedex hoesje.
                         </p>
+
                     </div>
                 </td>
                 <td></td>
@@ -101,11 +114,14 @@ session_start()
                     <img src="../Afbeeldingen/s6s.png" alt="ph5" height="230" class="pc5Thumb">
                     <div class="pc5">
                         <img src="../Afbeeldingen/s6s.png" alt="ph5" height="230">
-                        <h3>phone 5</h3>
-                        <p>Deze box heeft verschillende soorten sterkte in geluid.
-                            <br>
-                            De box is zwart gekleurd.
+                        <h3>ACME Hoesje ZG-1080S series 945876.</h3>
+                        <p>€10,00</p>
+                        <p>
+                            Dit hoesje is flexiebel en makkelijk te ontkoppelen.
+                            Ook brengt het een goede bescherming voor je telefoon.
+                            Dit hoesje is in een kleur beschikbaar.
                         </p>
+
                     </div>
                 </td>
             </tr>

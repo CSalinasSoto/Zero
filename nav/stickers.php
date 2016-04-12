@@ -55,24 +55,39 @@ session_start()
                     <img src="../Afbeeldingen/pcsticker4.png" alt="pc4" height="230" class="pc1Thumb">
                         <div class="pc1">
                             <img src="../Afbeeldingen/pcsticker4.png" alt="pc4">
-                            <h3>Red Hi-tops</h3>
-                            <p>De Red Hi-tops is mijn schoen die heb heeft de main abilty van ink resistance dat zorg er wordt dat je niet zo traag bent op de vijand zijn turf-ground(inkt gebied). De sub abilty is ook handig want swim speed up is altijd handig om snel te zijn.</p>
+                            <h3>ACME MARIO skin sticker</h3>
+                            <p>€20.00</p>
+                            <p>
+                                Deze skin sticker is voor de apple laptop series.
+                                Dit logo is apocalyptisch.
+                            </p>
+                            <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
                 <td class="line">
                     <img src="../Afbeeldingen/pcsticker3.png" alt="pc3" height="230" class="pc2Thumb">
                     <div class="pc2">
                         <img src="../Afbeeldingen/pcsticker3.png" alt="pc4" height="432" width="530">
-                        <h3>Red Hi-tops</h3>
-                        <p>De Red Hi-tops is mijn schoen die heb heeft de main abilty van ink resistance dat zorg er wordt dat je niet zo traag bent op de vijand zijn turf-ground(inkt gebied). De sub abilty is ook handig want swim speed up is altijd handig om snel te zijn.</p>
+                        <h3>ACME Homer Simpson skin sticker</h3>
+                        <p>€25.00</p>
+                        <p>
+                            Deze skin sticker is voor de apple laptop series.
+                            Dit is een logo van etende Homer Simpson.
+                        </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
                 <td class="line">
                     <img src="../Afbeeldingen/pcsticker6.png" alt="pc6" height="230" class="pc3Thumb">
                     <div class="pc3">
                         <img src="../Afbeeldingen/pcsticker6.png" alt="pc4">
-                        <h3>Red Hi-tops</h3>
-                        <p>De Red Hi-tops is mijn schoen die heb heeft de main abilty van ink resistance dat zorg er wordt dat je niet zo traag bent op de vijand zijn turf-ground(inkt gebied). De sub abilty is ook handig want swim speed up is altijd handig om snel te zijn.</p>
+                        <h3>ACME Batman logo skin sticker</h3>
+                        <p>€25</p>
+                        <p>
+                            Deze skin sticker is voor de apple laptop series.
+                            Dit is een logo van Batman.
+                        </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
             </tr>
@@ -81,24 +96,38 @@ session_start()
                     <img src="../Afbeeldingen/pcsticker1.png" alt="pc1" height="230" class="pc4Thumb">
                     <div class="pc4">
                         <img src="../Afbeeldingen/pcsticker1.png" alt="pc1">
-                        <h3>Red Hi-tops</h3>
-                        <p>De Red Hi-tops is mijn schoen die heb heeft de main abilty van ink resistance dat zorg er wordt dat je niet zo traag bent op de vijand zijn turf-ground(inkt gebied). De sub abilty is ook handig want swim speed up is altijd handig om snel te zijn.</p>
+                        <h3>ACME Apocalyptisch Apple skin sticker</h3>
+                        <p>€10.00</p>
+                            <p>
+                            Deze skin sticker is voor de apple laptop series.
+                            Dit logo is apocalyptisch.
+                        </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
                 <td class="line">
                     <img src="../Afbeeldingen/pcsticker2.png" alt="pc2" height="230" class="pc5Thumb">
                     <div class="pc5">
                         <img src="../Afbeeldingen/pcsticker2.png" alt="pc2" width="530">
-                        <h3>Red Hi-tops</h3>
-                        <p>De Red Hi-tops is mijn schoen die heb heeft de main abilty van ink resistance dat zorg er wordt dat je niet zo traag bent op de vijand zijn turf-ground(inkt gebied). De sub abilty is ook handig want swim speed up is altijd handig om snel te zijn.</p>
+                        <h3>ACME Darth Vader skin sticker</h3>
+                        <p>€30.00</p>
+                        <p>
+                            Deze skin sticker is voor de apple laptop series.
+                            Op deze skin sticker wordt Darth Vader afgebeeld.
+                        </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
                 <td class="line">
                     <img src="../Afbeeldingen/pcsticker5.png" alt="pc5" height="230" class="pc6Thumb">
                     <div class="pc6">
                         <img src="../Afbeeldingen/pcsticker5.png" alt="pc5">
-                        <h3>Red Hi-tops</h3>
-                        <p>De Red Hi-tops is mijn schoen die heb heeft de main abilty van ink resistance dat zorg er wordt dat je niet zo traag bent op de vijand zijn turf-ground(inkt gebied). De sub abilty is ook handig want swim speed up is altijd handig om snel te zijn.</p>
+                        <h3>ACME ALIEN skin sticker</h3>
+                        <p>€15.00</p>
+                        <p>Deze skin sticker is voor de apple laptop series.
+                            Dit logo is apocalyptisch.
+                        </p>
+                        <h4>&copy;Zero Gravity 2016</h4>
                     </div>
                 </td>
             </tr>
